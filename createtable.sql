@@ -1,1 +1,1 @@
-create table students (id varchar(20), fullname varchar(20), department varchar(20));
+create table student (StudentId int(10), Name varchar(20), Email varchar(20));

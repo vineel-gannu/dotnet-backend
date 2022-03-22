@@ -1,4 +1,4 @@
-insert into students (id, fullname, department) VALUES ('S001', 'Vineel Gannu', 'CS');
-insert into students (id, fullname, department) VALUES ('S002', 'John Thompson', 'Arts');
-insert into students (id, fullname, department) VALUES ('S003', 'Peter Smith', 'Industrial');
-insert into students (id, fullname, department) VALUES ('S004', 'James Cameron', 'Petroleum');
+insert into students (StudentId, Name, Email) VALUES (1, 'Vineel Gannu', 'Vineel@gmail.com');
+insert into students (StudentId, Name, Email) VALUES (2, 'John Thompson', 'John@gmail.com');
+insert into students (StudentId, Name, Email) VALUES (3, 'Peter Smith', 'Peter@gmail.com');
+insert into students (StudentId, Name, Email) VALUES (4, 'James Cameron', 'James@gmail.com');
